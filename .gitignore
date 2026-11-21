@@ -1,0 +1,17 @@
+
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Generated Data
+data/processed/*
+data/rejected/*
+
+# Logs
+logs/*.log
