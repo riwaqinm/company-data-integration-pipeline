@@ -1,0 +1,6 @@
+employee_id,employee_name,department,total_transactions,total_sales
+101,Arun,IT,1,150000.0
+106,Fathima,HR,1,145000.0
+103,Ravi,FINANCE,1,45000.0
+107,Akash,IT,1,42000.0
+110,Nirosha,HR,1,38000.0

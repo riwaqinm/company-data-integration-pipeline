@@ -1,0 +1,6 @@
+department,total_transactions,total_revenue,average_sale
+IT,2,192000.0,96000.0
+HR,3,188000.0,62666.67
+FINANCE,2,50500.0,25250.0
+MARKETING,1,35000.0,35000.0
+SALES,2,5500.0,2750.0

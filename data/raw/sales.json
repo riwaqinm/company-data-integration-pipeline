@@ -1,0 +1,72 @@
+[
+  {
+    "transaction_id": "TXN001",
+    "employee_id": 101,
+    "product_name": "Laptop",
+    "sale_amount": 150000,
+    "sale_date": "2026-11-01"
+  },
+  {
+    "transaction_id": "TXN002",
+    "employee_id": 102,
+    "product_name": "Keyboard",
+    "sale_amount": 5000,
+    "sale_date": "2026-11-02"
+  },
+  {
+    "transaction_id": "TXN003",
+    "employee_id": 103,
+    "product_name": "Monitor",
+    "sale_amount": 45000,
+    "sale_date": "2026-11-03"
+  },
+  {
+    "transaction_id": "TXN004",
+    "employee_id": 104,
+    "product_name": "Mouse",
+    "sale_amount": 2500,
+    "sale_date": "2026-11-04"
+  },
+  {
+    "transaction_id": "TXN005",
+    "employee_id": 105,
+    "product_name": "Printer",
+    "sale_amount": 35000,
+    "sale_date": "2026-11-05"
+  },
+  {
+    "transaction_id": "TXN006",
+    "employee_id": 106,
+    "product_name": "Laptop",
+    "sale_amount": 145000,
+    "sale_date": "2026-11-06"
+  },
+  {
+    "transaction_id": "TXN007",
+    "employee_id": 107,
+    "product_name": "Monitor",
+    "sale_amount": 42000,
+    "sale_date": "2026-11-07"
+  },
+  {
+    "transaction_id": "TXN008",
+    "employee_id": 108,
+    "product_name": "Keyboard",
+    "sale_amount": 5500,
+    "sale_date": "2026-11-08"
+  },
+  {
+    "transaction_id": "TXN009",
+    "employee_id": 109,
+    "product_name": "Mouse",
+    "sale_amount": 3000,
+    "sale_date": "2026-11-09"
+  },
+  {
+    "transaction_id": "TXN010",
+    "employee_id": 110,
+    "product_name": "Printer",
+    "sale_amount": 38000,
+    "sale_date": "2026-11-10"
+  }
+]

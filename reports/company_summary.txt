@@ -1,0 +1,8 @@
+COMPANY PERFORMANCE SUMMARY
+============================
+
+Total Employees: 20
+Salary Records: 10
+Sales Transactions: 10
+Total Revenue: 471,000.00
+Total Salary Expense: 803,500.00
